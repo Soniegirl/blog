@@ -46,6 +46,23 @@
   font-size: 4rem;
 }
 
+.subTitle {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 1.5rem;
+}
+
+.subTitle a {
+  color: #CC91F0;
+  text-decoration: none;
+}
+
+.subTitle a:hover,
+.subTitle a:focus,
+.subTitle a:active {
+  text-decoration: underline;
+}
+
 .title,
 .description {
   text-align: center;
