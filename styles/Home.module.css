@@ -3,13 +3,14 @@
 }
 
 .main {
-  min-height: 100vh;
+  min-height: 93vh;
   padding: 4rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  color: #343a40;
 }
 
 .footer {
@@ -29,7 +30,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #FFB0C2;
   text-decoration: none;
 }
 
@@ -113,4 +114,13 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+.header {
+  margin-top: -50px;
+  text-align: center;
+}
+
+.newsWrapper {
+  margin-top: 15px;
 }
