@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "next export && touch ./out/.nojekyll",
+    "export": "next export && touch ./out/.nojekyll && echo 'www.anastasiaplane.com' > ./out/CNAME",
     "start": "next start",
     "lint": "next lint"
   },
