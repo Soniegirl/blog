@@ -22,4 +22,5 @@ module.exports = withMDX({
     loader: 'akamai',
     path: '',
   },
+  exportTrailingSlash: true,
 });
