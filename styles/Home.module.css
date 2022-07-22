@@ -19,8 +19,7 @@
 }
 
 .footer {
-  position: absolute;
-  left: 50%;
+  position: relative;
   bottom: 0vh;
   display: flex;
   flex: 1;
@@ -50,6 +49,7 @@
 
 .title {
   margin: 0;
+  margin-bottom: 10px;
   line-height: 1.15;
   font-size: 4rem;
 }
