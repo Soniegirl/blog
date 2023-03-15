@@ -50,7 +50,7 @@ export default function Home() {
         </main>
 
         <footer className={styles.footer}>
-          <SocialIcon url='mailto:anastasia.plane@chromaway.com' />
+          <SocialIcon url='mailto:planeanastasia@gmail.com' />
           <SocialIcon url='https://twitter.com/PlaneAnastasia' />
         </footer>
       </div>
