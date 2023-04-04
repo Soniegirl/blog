@@ -1,4 +1,4 @@
-import Head from 'next/head';
+ import Head from 'next/head';
 import Image from 'next/image';
 import styles from '../styles/Home.module.css';
 import News from './news.mdx';
@@ -41,7 +41,7 @@ export default function Home() {
               <a href='https://www.linkedin.com/in/anastasiaplane/'>Plane</a>
             </h1>
             <h2 className={styles.subTitle}>
-              <a href='https://chromia.com'>Chromia</a> Senior Marketing Lead
+              Marketing Professional
             </h2>
           </div>
           <div className={styles.newsWrapper}>
